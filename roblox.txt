@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HimynameisLOL/roboox/main/README.md"))()
